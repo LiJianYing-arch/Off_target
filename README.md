@@ -12,8 +12,6 @@ Li J, Manghwar H, Sun L, Wang P, Wang G, Sheng H, Zhang J, Liu H, Qin L, Rui H, 
 
 ###### 1. Data access and trimming data
 
-The raw data were downloaded from NCBI Sequence Read Archive (SRA) BioProject ID: PRJNA380842. The raw reads were filtered with Trimmomatic software1 (Version 0.32, MINLEN:75).
-
 ```bash
 #!/bin/bash
 #PBS -N TrimData
