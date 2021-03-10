@@ -6,7 +6,7 @@ This document contain six key supplementary step and data processing scripts to 
 
 ##### Citation
 
-Li J†, Manghwar H†, Sun L†, Wang P, Wang G, Sheng H, Zhang J, Liu H, Qin L, Rui H, Li B, Lindsey K, Daniell H, Jin S* and Zhang X. (2019) Whole genome sequencing reveals rare off-target mutations and considerable inherent genetic or/and somaclonal variations in CRISPR-Cas9-edited cotton plants.  Plant Biotechnol J. 2019;  17:858-868.
+Li J, Manghwar H, Sun L, Wang P, Wang G, Sheng H, Zhang J, Liu H, Qin L, Rui H, Li B, Lindsey K, Daniell H, Jin S* and Zhang X. (2019) Whole genome sequencing reveals rare off-target mutations and considerable inherent genetic or/and somaclonal variations in CRISPR-Cas9-edited cotton plants.  Plant Biotechnol J. 2019;  17:858-868.
 
 ##### Steps
 
